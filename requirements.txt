@@ -3,4 +3,6 @@ pandas
 matplotlib
 scipy
 statsmodels
-sklearn
+scikit-klearn
+tensorflow
+keras
