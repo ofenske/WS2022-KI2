@@ -5,5 +5,6 @@ seaborn
 scipy
 statsmodels
 scikit-learn
-tensorflow
-keras
+torch
+torchvision
+tqdm
